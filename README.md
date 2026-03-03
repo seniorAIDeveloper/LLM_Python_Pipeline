@@ -1,4 +1,4 @@
-# MLflow Automatic Tracing for txtai
+# Python + LLMs + pipelines for txtai
 
 <p align="center">
     <a href="https://github.com/neuml/mlflow-txtai/releases">
